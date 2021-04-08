@@ -432,7 +432,7 @@ $(function () {
 	*/
 
 	if ($('#map').length) {
-		initMap();
+		//	initMap();
 	}
 
 
