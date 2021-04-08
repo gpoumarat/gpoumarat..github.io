@@ -547,11 +547,6 @@ input[type="submit"]:hover {
 	color: rgba(255,255,255,0.85);
 }
 
-.revs-item .text:before, .revs-item .text:after {
-	background: url(../images/quote_d.svg) no-repeat;
-	background-size: contain;
-}
-
 .revs-item .info .name {
 	color: rgba(255,255,255,0.85);
 }
